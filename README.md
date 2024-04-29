@@ -6,7 +6,7 @@ Single-cell genomics is an emerging technique used to study cells at high resolu
 
 # Set up the programming environment
 ## 1. Download R and R studio
-*nR is a free software environment for statistical computing and graphics and runs on a wide variety of UNIX platforms, Windows and MacOS. To downloads R follows the instructions in https://www.r-project.org/.
+* R is a free software environment for statistical computing and graphics and runs on a wide variety of UNIX platforms, Windows and MacOS. To downloads R follows the instructions in https://www.r-project.org/.
 * RStudio is an integrated development environment (IDE) for R and Python. It includes a console, syntax-highlighting editor that supports direct code execution, and tools for plotting, history, debugging, and workspace management. To download R studio follow the instructions in https://posit.co/products/open-source/rstudio/. R studio should be downloaded after the R installation.
 
 ## 2. R packages
