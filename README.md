@@ -25,3 +25,11 @@ https://drive.google.com/file/d/1SWxqWCNb-UGmeGz_mPJyO-0naqtWy6F0/view?usp=drive
 The dataset is in RData format and it must be placed in SCell_Tutorial fold. 
 
 
+
+# RNA-seq Simulation Cancer Genomics
+
+Access to Data following this link:
+
+https://drive.google.com/drive/folders/1r24MwmNM_2ihXEhlmHIOU6Hm6_e57GLf?usp=drive_link
+
+
