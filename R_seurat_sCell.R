@@ -107,10 +107,3 @@ n_cells_qc <- ncol(df_sub)
 
 #Save the file
 save(df_sub, file="C:/Users/nicol/OneDrive/Desktop/SCell_Tutorial/Data/df_sub.RData")
-
-
-
-
-
-#Save the file
-save(df_sub, file="C:/Users/nicol/OneDrive/Desktop/SCell_Tutorial/Data/df_sub.RData")
