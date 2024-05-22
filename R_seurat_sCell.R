@@ -2,7 +2,7 @@ library(Seurat)
 library(ggplot2)
 
 #Load the Dataset
-load("C:/Users/nicol/OneDrive/Desktop/SCell_Tutorial/Data/df_5iFW.RData")
+load("Data/df_5iFW.RData")
 
 #Take the Raw Expression matrix 
 df_5iFW@assays$RNA@layers$counts
@@ -104,6 +104,12 @@ df_sub <- subset(df_sub, subset = (((Novelty_Score > 0.8))))
 
 #How many cells
 n_cells_qc <- ncol(df_sub)
+
+#Save the file
+save(df_sub, file="C:/Users/nicol/OneDrive/Desktop/SCell_Tutorial/Data/df_sub.RData")
+
+
+
 
 
 #Save the file
