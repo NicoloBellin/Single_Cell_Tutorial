@@ -3,7 +3,7 @@ library(ggplot2)
 ################### RNA-seq analysis simulation ################
 
 #Import the dataset
-df <- read.table("C:/Users/nicol/OneDrive/Desktop/SCell_Tutorial/Data/rnaseq_bulk.txt")
+df <- read.table("Data/rnaseq_bulk.txt")
 
 
 #Check some descriptive statistics
